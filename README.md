@@ -6,7 +6,7 @@ Some other Dan really loves ducks. Dan loves ducks so much, he wants to build a 
 ### Week 9/15 - 9/21
 Dan has created a folder called "images" in his root directory. Unfortunately, he does not have time to collect images of majestic mallards. He has posted tasks on which ducks to add to the folder and where you can find an image of them. These tasks can be found on the Issues tab on his GitHub repository.
 
-If there no issues available, slack me and I'll create one for you.
+If there are no issues available, slack me and I'll create one for you.
 
 ## Contribution Instructions
 - Fork this repository and then clone it down to your projects folder.
